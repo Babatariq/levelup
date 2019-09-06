@@ -1,0 +1,39 @@
+body
+{
+  color: #414141; /* Dark Grey */
+  background: #EEEEEE; /* ligh grey */
+  font-size: 18px;
+
+
+}
+
+h1
+{
+  font-size: 2em;
+/*  color: #32CD32; --- this code is for lime greem testing it out :) */ 
+}
+
+h2
+{
+  font-size: 1.6em;
+}
+
+h1,h2,h3,h4,h5,h6
+{
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;
+}
+
+ul
+{
+  list-style-type: square;
+}
+ol
+{
+  list-style-type: lower-roman;
+}
+
+a
+{
+  text-decoration: none;
+}
